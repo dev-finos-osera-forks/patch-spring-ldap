@@ -1,0 +1,8 @@
+line: spring-ldap-2.4
+repository: patch-spring-ldap
+members:
+  - org.springframework.ldap:spring-ldap-core
+  - org.springframework.ldap:spring-ldap-core-tiger
+  - org.springframework.ldap:spring-ldap-ldif-core
+  - org.springframework.ldap:spring-ldap-odm
+  - org.springframework.ldap:spring-ldap-test
